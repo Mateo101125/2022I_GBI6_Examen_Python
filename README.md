@@ -20,7 +20,7 @@
 - numpy 1.21.5
 - matplotlib 3.5.1
 - seaborn 0.11.2
-# Versiones de programas y paquetes
+# Explicación de la data utilizada
 - **La data utilizada fue descagada con la funcion download_pubmed en el caso de los primeros literales. La funcion
 descargaba desde la base de datos de pubmed informacion sobre articulos que contengan la palabra clave ingresada.
 En la informacion se encontraba desde el registro, autores, ciudad, paises, etc.**
