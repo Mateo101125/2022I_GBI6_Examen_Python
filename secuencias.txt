@@ -1,0 +1,41 @@
+>CA834580.1 MCS012C11_158668 Ice plant Lambda Uni-Zap XR expression library, 5 days 0.5 M NaCl treatment, Crassulacean acid metabolism, phase I (2 AM). Mesembryanthemum crystallinum cDNA clone MCS012C11 5, mRNA sequence
+CCTCGTGCCGAATTCGGCACGAGGCCTCGTGCCGAATTCGATATCAAGCTTATCGATACCGTCGAC
+
+>CA834925.1 MCS017C02_159358 Ice plant Lambda Uni-Zap XR expression library, 5 days 0.5 M NaCl treatment, Crassulacean acid metabolism, phase I (2 AM). Mesembryanthemum crystallinum cDNA clone MCS017C02 5, mRNA sequence
+AGGATGCGATAGTTAGTGGAGGTTGTGGTGATTGCGGTGCTGGTTGTGGGGGTGGTTGCGGAAATG
+
+>NR_029879.1 Mus musculus microRNA 378a (Mir378a), microRNA
+AGGGCTCCTGACTCCAGGTCCTGTGTGTTACCTCGAAATAGCACTGGACTTGGAGTCAGAAGGCCT
+
+>CA834616.1 MCS012G06_158740 Ice plant Lambda Uni-Zap XR expression library, 5 days 0.5 M NaCl treatment, Crassulacean acid metabolism, phase I (2 AM). Mesembryanthemum crystallinum cDNA clone MCS012G06 5, mRNA sequence
+GAATTACTAGTAGTAGCTAAATGCCTTTAGGAATAATACTTGCACTCTGCTTCCCTTGTTCTTTC
+
+>NR_029571.1 Mus musculus microRNA 185 (Mir185), microRNA
+AGGGATTGGAGAGAAAGGCAGTTCCTGATGGTCCCCTCCCAGGGGCTGGCTTTCCTCTGGTCCTT
+
+
+>CA837591.1 MCT007B03_165113 Ice plant Lambda Uni-Zap XR expression library, 5 days 0.5 M NaCl treatment, Crassulacean acid metabolism, phase IV (5:30 PM). Mesembryanthemum crystallinum cDNA clone MCT007B03 5, mRNA sequence
+GCCTCGTGCCGAACTCGGCACGAGGCCTCGTGCCGAATTCGGCACGAGGGTCTACAATCC
+
+>CA839734.1 MCT030G05_172563 Ice plant Lambda Uni-Zap XR expression library, 5 days 0.5 M NaCl treatment, Crassulacean acid metabolism, phase IV (5:30 PM). Mesembryanthemum crystallinum cDNA clone MCT030G05 5, mRNA sequence
+GGGAGGGTGTTGGTGGCAGCAGATGCAAGGTTGAATGAGGAGTATGATGAGGGGGAGATG
+
+
+>CA836907.1 MCU012C10_256376 Ice plant Lambda Uni-Zap XR expression library, 5 days 0.5 M NaCl treatment, Crassulacean acid metabolism, phase II (8:00 AM). Mesembryanthemum crystallinum cDNA clone MCU012C10 5, mRNA sequence
+GCTTCAGATAGATTTCTTAACCTCACTCTCTCTCTCTCTCTCTCTCTCTCTCTCTCTCT
+
+>CA835540.1 MCS038B08_160588 Ice plant Lambda Uni-Zap XR expression library, 5 days 0.5 M NaCl treatment, Crassulacean acid metabolism, phase I (2 AM). Mesembryanthemum crystallinum cDNA clone MCS038B08 5, mRNA sequence
+GGTTTGCTCTAAAATATTTAAATCAAACAAATCTGTTGTCAATGATGATCTTATTTGT
+
+>CA833031.1 MCS019C01_151340 Ice plant Lambda Uni-Zap XR expression library, 5 days 0.5 M NaCl treatment, Crassulacean acid metabolism, phase I (2 AM). Mesembryanthemum crystallinum cDNA clone MCS019C01 5, mRNA sequence
+GCCTGTATATCTGATATAATCCTTATTGATTCCCCAAATATCCACAGAATTTCAAAC
+
+>CA832852.1 MCS013B12_150982 Ice plant Lambda Uni-Zap XR expression library, 5 days 0.5 M NaCl treatment, Crassulacean acid metabolism, phase I (2 AM). Mesembryanthemum crystallinum cDNA clone MCS013B12 5, mRNA sequence
+GCCGATGTGGTGCTCTTTTGAAACAAATTACTTGTGAAGAAATGTTAGTTTCCATC
+
+>CA839896.1 MCT032E07_172887 Ice plant Lambda Uni-Zap XR expression library, 5 days 0.5 M NaCl treatment, Crassulacean acid metabolism, phase IV (5:30 PM). Mesembryanthemum crystallinum cDNA clone MCT032E07 5, mRNA sequence
+GGTAAGTCTCTAACTTGGTTAACTAGCTGTTTCGATGCATTTTGATGATATAAAAT
+
+>CA833132.1 MCS016F06_151542 Ice plant Lambda Uni-Zap XR expression library, 5 days 0.5 M NaCl treatment, Crassulacean acid metabolism, phase I (2 AM). Mesembryanthemum crystallinum cDNA clone MCS016F06 5, mRNA sequence
+GAAGATGTTTGCTCACTGTTTGGATGGTGGAAATGGTGGCGGCATCTTTGCTGTT
+
