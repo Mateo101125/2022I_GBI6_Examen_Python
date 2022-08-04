@@ -26,7 +26,7 @@ import pandas as pd
 from collections import Counter
 
 def mining_pubs(tipo):
-    """Entrada tres variables: "DP", "AU" y "AD" dando como resultado una dataframe """
+    """Entrada de la variable "AD" dando como resultado una dataframe """
     with open("data/resultado_pubmed.txt", errors="ignore") as f: 
         texto = f.read() 
     if  tipo == "AD": 
