@@ -1,0 +1,1884 @@
+
+PMID- 34498426
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220415
+LR  - 20220415
+IS  - 2057-4347 (Electronic)
+IS  - 2057-4347 (Linking)
+VI  - 8
+IP  - 1
+DP  - 2022 Feb
+TI  - In vitro mineral apposition analysis of two Colombian plant extracts on
+      Amelogenesis imperfecta teeth.
+PG  - 336-349
+LID - 10.1002/cre2.485 [doi]
+AB  - OBJECTIVE: To determine if native Colombian Piper marginatum Jacq. and Ilex
+      guayusa Loes plant extracts have a remineralizing effect on teeth with
+      Amelogenesis imperfecta in comparison with the commercial products Clinpro-3M and
+      Recaldent. MATERIAL AND METHODS: An in vitro study was carried out with 128 human
+      teeth slices (64 healthy and 64 with Amelogenesis imperfecta) on which an initial
+      Raman spectroscopy was performed followed by Raman spectroscopies at 0, 24, 48,
+      and 72 h to determine possible remineralization by observing mineral increase or 
+      decrease as a result of P. marginatum Jacq. and I. guayusa Loes extract
+      application in comparison to control substance (Clinpro and Recaldent)
+      application. Obtained data were analyzed using a bivariate method with a t
+      unidirectional test. Significant differences among groups were determined by an
+      ANOVA with Dunnett post hoc tests. RESULTS: Native I. guayusa Loes and P.
+      marginatum Jacq. Colombian plants extracts exhibited phosphate and orthophosphate
+      mineral apposition, where P. marginatum Jacq. presented better results.
+      CONCLUSIONS: Native Colombian I. guayusa Loes and P. marginatum Jacq plant
+      extract might in the future be useful for dental tissue remineralization, as they
+      induced phosphate and orthophosphate mineral apposition, main components of tooth
+      enamel. These types of natural compounds can become an alternative to fluorine,
+      whose ingestion is harmful to the human body.
+CI  - (c) 2021 The Authors. Clinical and Experimental Dental Research published by John
+      Wiley & Sons Ltd.
+FAU - Gutierrez-Prieto, Sandra J
+AU  - Gutierrez-Prieto SJ
+AUID- ORCID: 0000-0002-2112-2563
+AD  - Department of Dental Systems, Dentistry Research Centre, School of Dentistry,
+      Pontificia Universidad Javeriana, Bogota, Colombia.
+FAU - Sequeda-Castaneda, Luis G
+AU  - Sequeda-Castaneda LG
+AUID- ORCID: 0000-0002-1639-1988
+AD  - Department of Chemistry, Faculty of Sciences, Pontificia Universidad Javeriana,
+      Bogota, Colombia.
+AD  - Department of Pharmacy, Faculty of Sciences, Universidad Nacional de Colombia,
+      Bogota, Colombia.
+FAU - Penedo-Jaramillo, Gabriela M
+AU  - Penedo-Jaramillo GM
+AD  - Department of Dental Systems, Dentistry Research Centre, School of Dentistry,
+      Pontificia Universidad Javeriana, Bogota, Colombia.
+FAU - Chacin-Nieto, Andrea V
+AU  - Chacin-Nieto AV
+AD  - Department of Dental Systems, Dentistry Research Centre, School of Dentistry,
+      Pontificia Universidad Javeriana, Bogota, Colombia.
+FAU - Contreras-Caceres, Daniel R
+AU  - Contreras-Caceres DR
+AD  - Department of Dental Systems, Dentistry Research Centre, School of Dentistry,
+      Pontificia Universidad Javeriana, Bogota, Colombia.
+FAU - Moreno-Abello, Gloria C
+AU  - Moreno-Abello GC
+AD  - Department of Dental Systems, Dentistry Research Centre, School of Dentistry,
+      Pontificia Universidad Javeriana, Bogota, Colombia.
+FAU - Galvis-Rincon, Maria P
+AU  - Galvis-Rincon MP
+AD  - Department of Periodontal Systems, Dentistry Research Centre, School of
+      Dentistry, Pontificia Universidad Javeriana, Bogota, Colombia.
+FAU - Gamboa-Jaimes, Fredy O
+AU  - Gamboa-Jaimes FO
+AD  - Department of Microbiology, Faculty of Sciences, Pontificia Universidad
+      Javeriana, Bogota, Colombia.
+FAU - Luengas-Caicedo, Pilar E
+AU  - Luengas-Caicedo PE
+AD  - Department of Pharmacy, Faculty of Sciences, Universidad Nacional de Colombia,
+      Bogota, Colombia.
+LA  - eng
+GR  - 7341/Pontificia Universidad Javeriana
+GR  - 5392/Pontificia Universidad Javeriana
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210909
+PL  - United States
+TA  - Clin Exp Dent Res
+JT  - Clinical and experimental dental research
+JID - 101692332
+RN  - 0 (Minerals)
+RN  - 0 (Phosphates)
+RN  - 0 (Plant Extracts)
+SB  - IM
+MH  - *Amelogenesis Imperfecta
+MH  - Colombia
+MH  - Humans
+MH  - Minerals/analysis
+MH  - Phosphates/analysis
+MH  - Plant Extracts/pharmacology
+PMC - PMC8874054
+OTO - NOTNLM
+OT  - *Amelogenesis imperfecta
+OT  - *Colombia
+OT  - *medicinal plant
+OT  - *mineral apposition
+EDAT- 2021/09/10 06:00
+MHDA- 2022/04/16 06:00
+CRDT- 2021/09/09 07:14
+PHST- 2021/07/30 00:00 [revised]
+PHST- 2021/02/09 00:00 [received]
+PHST- 2021/08/08 00:00 [accepted]
+PHST- 2021/09/10 06:00 [pubmed]
+PHST- 2022/04/16 06:00 [medline]
+PHST- 2021/09/09 07:14 [entrez]
+AID - 10.1002/cre2.485 [doi]
+PST - ppublish
+SO  - Clin Exp Dent Res. 2022 Feb;8(1):336-349. doi: 10.1002/cre2.485. Epub 2021 Sep 9.
+
+PMID- 34467704
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210902
+LR  - 20210902
+IS  - 1001-5302 (Print)
+IS  - 1001-5302 (Linking)
+VI  - 46
+IP  - 12
+DP  - 2021 Jun
+TI  - [Triterpenoids from leaves of Ilex guayusa].
+PG  - 3123-3132
+LID - 10.19540/j.cnki.cjcmm.20210317.601 [doi]
+AB  - The chemical constituents from the leaves of Ilex guayusa were investigated.
+      Sixteen triterpenoids were isolated from the 95% ethanol extract of dried leaves 
+      of I. guayusa by silica gel, Sephadex LH-20, and ODS column chromatographies and 
+      semi-prepa-rative HPLC. Those triterpenoids were identified by NMR, HR-MS, and
+      literature analysis:
+      3beta-hydroxy-11alpha,12alpha-epoxy-24-nor-urs-4(23)-ene-28,13beta-olide(1),
+      3beta-hydroxy-24-nor-4(23),12-oleanadien-28-methyl ester(2), oleanolic acid(3),
+      3beta,28-dihydroxy-12-oleanene(4),
+      2alpha,3beta-dihydroxy-11alpha,12alpha-epoxy-24-'nor-olean-4(23)-ene-28,13beta-ol
+      ide(5), ursolic acid(6), 3beta,23-dihydroxy ursolic acid(7),
+      3beta,28-dihydroxy-12-ursene(8), 3beta-28-nor-urs-12-ene-3,17-diol(9),
+      3beta-hydroxyurs-11-ene-28,13beta-olide(10),
+      13beta,28-epoxy-3beta-hydroxy-11-ursene(11),
+      3beta-hydroxy-28,28-dimethoxy-12-ursene(12),
+      3beta-hydroxy-24-nor-urs-4(23),12-dien-28-oic acid(13),
+      3beta-hydroxy-24-nor-urs-4(23),12-dien-28-methyl ester(14),
+      2alpha,3beta-dihydroxy-11alpha,12alpha-epoxy-24-nor-urs-4(23)-ene-28,13beta-olide
+      (15) and
+      2alpha,3beta-dihydroxy-11alpha,12alpha-epoxy-24-nor-urs-4(23),20(30)-dien-28,13be
+      ta-olide(16). Compounds 1-2 were new compounds, and compounds 4-5, 7 and 9-16
+      were isolated from I. guayusa for the first time.
+FAU - Huang, Hui
+AU  - Huang H
+AD  - Center for Bioactive Natural Molecules and Innovative Drugs Research, College of 
+      Pharmacy, Jinan University Guangzhou 510632, China Guangdong Province Key
+      Laboratory of Pharmacodynamic Constituents of Traditional Chinese Medicine and
+      New Drugs Research, Jinan University Guangzhou 510632, China.
+FAU - Chen, Ye
+AU  - Chen Y
+AD  - Center for Bioactive Natural Molecules and Innovative Drugs Research, College of 
+      Pharmacy, Jinan University Guangzhou 510632, China Guangdong Province Key
+      Laboratory of Pharmacodynamic Constituents of Traditional Chinese Medicine and
+      New Drugs Research, Jinan University Guangzhou 510632, China.
+FAU - Zeng, Hu-Hu
+AU  - Zeng HH
+AD  - Center for Bioactive Natural Molecules and Innovative Drugs Research, College of 
+      Pharmacy, Jinan University Guangzhou 510632, China Guangdong Province Key
+      Laboratory of Pharmacodynamic Constituents of Traditional Chinese Medicine and
+      New Drugs Research, Jinan University Guangzhou 510632, China.
+FAU - Huang, Xiao-Jun
+AU  - Huang XJ
+AD  - Center for Bioactive Natural Molecules and Innovative Drugs Research, College of 
+      Pharmacy, Jinan University Guangzhou 510632, China Guangdong Province Key
+      Laboratory of Pharmacodynamic Constituents of Traditional Chinese Medicine and
+      New Drugs Research, Jinan University Guangzhou 510632, China.
+FAU - Wang, Lei
+AU  - Wang L
+AD  - Center for Bioactive Natural Molecules and Innovative Drugs Research, College of 
+      Pharmacy, Jinan University Guangzhou 510632, China Guangdong Province Key
+      Laboratory of Pharmacodynamic Constituents of Traditional Chinese Medicine and
+      New Drugs Research, Jinan University Guangzhou 510632, China.
+FAU - Wang, Ying
+AU  - Wang Y
+AD  - Center for Bioactive Natural Molecules and Innovative Drugs Research, College of 
+      Pharmacy, Jinan University Guangzhou 510632, China Guangdong Province Key
+      Laboratory of Pharmacodynamic Constituents of Traditional Chinese Medicine and
+      New Drugs Research, Jinan University Guangzhou 510632, China.
+FAU - Ma, Zhi-Guo
+AU  - Ma ZG
+AD  - Center for Bioactive Natural Molecules and Innovative Drugs Research, College of 
+      Pharmacy, Jinan University Guangzhou 510632, China Guangdong Province Key
+      Laboratory of Pharmacodynamic Constituents of Traditional Chinese Medicine and
+      New Drugs Research, Jinan University Guangzhou 510632, China.
+FAU - Zhang, Xiao-Qi
+AU  - Zhang XQ
+AD  - Center for Bioactive Natural Molecules and Innovative Drugs Research, College of 
+      Pharmacy, Jinan University Guangzhou 510632, China Guangdong Province Key
+      Laboratory of Pharmacodynamic Constituents of Traditional Chinese Medicine and
+      New Drugs Research, Jinan University Guangzhou 510632, China NMPA Key Laboratory 
+      for Quality Evaluation of Traditional Chinese Medicine(Traditional Chinese Patent
+      Medicine) Guangzhou 510632, China.
+FAU - Fan, Chun-Lin
+AU  - Fan CL
+AD  - Center for Bioactive Natural Molecules and Innovative Drugs Research, College of 
+      Pharmacy, Jinan University Guangzhou 510632, China Guangdong Province Key
+      Laboratory of Pharmacodynamic Constituents of Traditional Chinese Medicine and
+      New Drugs Research, Jinan University Guangzhou 510632, China NMPA Key Laboratory 
+      for Quality Evaluation of Traditional Chinese Medicine(Traditional Chinese Patent
+      Medicine) Guangzhou 510632, China.
+FAU - Ye, Wen-Cai
+AU  - Ye WC
+AD  - Center for Bioactive Natural Molecules and Innovative Drugs Research, College of 
+      Pharmacy, Jinan University Guangzhou 510632, China Guangdong Province Key
+      Laboratory of Pharmacodynamic Constituents of Traditional Chinese Medicine and
+      New Drugs Research, Jinan University Guangzhou 510632, China NMPA Key Laboratory 
+      for Quality Evaluation of Traditional Chinese Medicine(Traditional Chinese Patent
+      Medicine) Guangzhou 510632, China.
+LA  - chi
+PT  - Journal Article
+PL  - China
+TA  - Zhongguo Zhong Yao Za Zhi
+JT  - Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese
+      materia medica
+JID - 8913656
+RN  - 0 (Drugs, Chinese Herbal)
+RN  - 0 (Triterpenes)
+RN  - 6SMK8R7TGJ (Oleanolic Acid)
+SB  - IM
+MH  - *Drugs, Chinese Herbal
+MH  - *Ilex guayusa
+MH  - Molecular Structure
+MH  - *Oleanolic Acid
+MH  - Plant Leaves
+MH  - *Triterpenes
+OTO - NOTNLM
+OT  - Aquifoliaceae
+OT  - Ilex guayusa
+OT  - chemical constituents
+OT  - triterpenoids
+EDAT- 2021/09/02 06:00
+MHDA- 2021/09/03 06:00
+CRDT- 2021/09/01 07:53
+PHST- 2021/09/01 07:53 [entrez]
+PHST- 2021/09/02 06:00 [pubmed]
+PHST- 2021/09/03 06:00 [medline]
+AID - 10.19540/j.cnki.cjcmm.20210317.601 [doi]
+PST - ppublish
+SO  - Zhongguo Zhong Yao Za Zhi. 2021 Jun;46(12):3123-3132. doi:
+      10.19540/j.cnki.cjcmm.20210317.601.
+
+PMID- 34036096
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210528
+IS  - 2314-5765 (Print)
+IS  - 2314-5765 (Linking)
+VI  - 2021
+DP  - 2021
+TI  - Effect of Cocoa Bean Shell Addition on Metabolite Profile and Antioxidant
+      Activity of Herbal Infusions.
+PG  - 9915797
+LID - 10.1155/2021/9915797 [doi]
+AB  - Cocoa bean shell (CBS) is a by-product with aromatic characteristics that can
+      enhance the aroma and bioactivity of herbal infusions. This study was aimed to
+      determine the effect of the addition of cocoa bean shell on the metabolite
+      profile and antioxidant activity of infusions made with Ilex guayusa and
+      Vernonanthura patens and their mixtures. Metabolite profile was analyzed by gas
+      chromatography-mass spectrometry combined with multivariate analysis. Total
+      polyphenol content and flavonoids were determined by the Folin-Ciocalteu method
+      and by the flavonoid-AlCl3 complex, respectively. Antioxidant activities were
+      measured by the decolorization assay of the 2,2-diphenyl-1-picrylhydrazyl radical
+      and the ferric reducing antioxidant power. The results revealed that the addition
+      of CBS increases the content of phenolic acids in the infusions (caffeic acid,
+      4-hydroxybenzoic acid, and pyrocatechol). Nonetheless, the antioxidant activity
+      of the infusions decreased with the addition of CBS (16.21 to 2.74 TEAC).
+      Carboxylic acids and derivatives, major compounds present in the infusions
+      prepared with V. patens, were the metabolites that showed the highest correlation
+      with the antioxidant activity. This study suggests that the infusions made with
+      CBS present a profile of metabolites different from the infusions of I. guayusa, 
+      V. patens, and their mixtures.
+CI  - Copyright (c) 2021 Maria Quijano-Aviles et al.
+FAU - Quijano-Aviles, Maria
+AU  - Quijano-Aviles M
+AUID- ORCID: https://orcid.org/0000-0003-4484-4670
+AD  - Centro de Investigaciones Biotecnologicas del Ecuador (CIBE), ESPOL Polytechnic
+      University, Escuela Superior Politecnica del Litoral, ESPOL, Campus Gustavo
+      Galindo Km 30.5 via Perimetral, P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Choez-Guaranda, Ivan
+AU  - Choez-Guaranda I
+AUID- ORCID: https://orcid.org/0000-0003-2603-9491
+AD  - Centro de Investigaciones Biotecnologicas del Ecuador (CIBE), ESPOL Polytechnic
+      University, Escuela Superior Politecnica del Litoral, ESPOL, Campus Gustavo
+      Galindo Km 30.5 via Perimetral, P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Viteri, Rafael
+AU  - Viteri R
+AUID- ORCID: https://orcid.org/0000-0003-3001-7025
+AD  - Centro de Investigaciones Biotecnologicas del Ecuador (CIBE), ESPOL Polytechnic
+      University, Escuela Superior Politecnica del Litoral, ESPOL, Campus Gustavo
+      Galindo Km 30.5 via Perimetral, P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Barragan-Lucas, Ana
+AU  - Barragan-Lucas A
+AUID- ORCID: https://orcid.org/0000-0003-2318-5872
+AD  - Centro de Investigaciones Biotecnologicas del Ecuador (CIBE), ESPOL Polytechnic
+      University, Escuela Superior Politecnica del Litoral, ESPOL, Campus Gustavo
+      Galindo Km 30.5 via Perimetral, P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Sosa, Daynet
+AU  - Sosa D
+AUID- ORCID: https://orcid.org/0000-0001-5403-9072
+AD  - Centro de Investigaciones Biotecnologicas del Ecuador (CIBE), ESPOL Polytechnic
+      University, Escuela Superior Politecnica del Litoral, ESPOL, Campus Gustavo
+      Galindo Km 30.5 via Perimetral, P.O. Box 09-01-5863, Guayaquil, Ecuador.
+AD  - Facultad de Ciencias de la Vida (FCV), ESPOL Polytechnic University, Escuela
+      Superior Politecnica del Litoral, ESPOL, Campus Gustavo Galindo, Km. 30.5 via
+      Perimetral, P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Manzano, Patricia
+AU  - Manzano P
+AUID- ORCID: https://orcid.org/0000-0003-3189-6455
+AD  - Centro de Investigaciones Biotecnologicas del Ecuador (CIBE), ESPOL Polytechnic
+      University, Escuela Superior Politecnica del Litoral, ESPOL, Campus Gustavo
+      Galindo Km 30.5 via Perimetral, P.O. Box 09-01-5863, Guayaquil, Ecuador.
+AD  - Facultad de Ciencias de la Vida (FCV), ESPOL Polytechnic University, Escuela
+      Superior Politecnica del Litoral, ESPOL, Campus Gustavo Galindo, Km. 30.5 via
+      Perimetral, P.O. Box 09-01-5863, Guayaquil, Ecuador.
+LA  - eng
+PT  - Journal Article
+DEP - 20210506
+PL  - United States
+TA  - Int J Food Sci
+JT  - International journal of food science
+JID - 101627297
+PMC - PMC8121573
+COIS- The authors declare that there is no conflict of interest.
+EDAT- 2021/05/27 06:00
+MHDA- 2021/05/27 06:01
+CRDT- 2021/05/26 06:58
+PHST- 2021/03/09 00:00 [received]
+PHST- 2021/04/22 00:00 [accepted]
+PHST- 2021/05/26 06:58 [entrez]
+PHST- 2021/05/27 06:00 [pubmed]
+PHST- 2021/05/27 06:01 [medline]
+AID - 10.1155/2021/9915797 [doi]
+PST - epublish
+SO  - Int J Food Sci. 2021 May 6;2021:9915797. doi: 10.1155/2021/9915797. eCollection
+      2021.
+
+PMID- 33854951
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210416
+IS  - 2214-7500 (Electronic)
+IS  - 2214-7500 (Linking)
+VI  - 8
+DP  - 2021
+TI  - Acute oral toxicity of a novel functional drink based on Ilex guayusa,
+      Vernonanthura patens, and cocoa husk.
+PG  - 747-752
+LID - 10.1016/j.toxrep.2021.03.026 [doi]
+AB  - A novel functional drink with nutraceutical properties was formulated from the
+      aqueous extracts of Ilex guayusa, and Vernonanthura patens leaves, and cocoa
+      husks. This juice contains various bioactive compounds, such as phenolic
+      compounds and methylxanthines, with antioxidant and stimulant properties of
+      pharmacological interest. However, it is known whether herbal extracts'
+      interaction may have adverse toxic effects on human health. To evaluate this
+      functional drink's innocuity, we estimated the acute oral toxicity (AOT) in
+      experimental mice. This paper presents the AOT evaluation of two formulations of 
+      a functional drink (pre-formulation and microencapsulation) at a single dose of
+      2000 mg/kg of body weight (b.w.). No signs of adverse toxicity and mortality were
+      observed after a single oral dose of 2000 mg/kg b.w. Likewise, no significant
+      body and organ weight changes, food and water consumption behavior, and no
+      histopathological changes were observed in the main organs evaluated. In
+      conclusion, this functional drink can be categorized as low toxicity " according 
+      to the Globally Harmonized Classification System (GHS), making it a potential
+      beverage with high nutritional and pharmacological value.
+CI  - (c) 2021 The Authors. Published by Elsevier B.V.
+FAU - Paladines-Santacruz, Geovanna
+AU  - Paladines-Santacruz G
+AD  - ESPOL Polytechnic University, Escuela Superior Politecnica del Litoral, ESPOL,
+      Laboratorio para investigaciones biomedicas, Facultad de Ciencias de la vida
+      (FCV), Campus Gustavo Galindo Km. 30.5 Via Perimetral, P.O. Box 09-01-5863,
+      Guayaquil, Ecuador.
+FAU - Orellana-Manzano, Andrea
+AU  - Orellana-Manzano A
+AD  - ESPOL Polytechnic University, Escuela Superior Politecnica del Litoral, ESPOL,
+      Laboratorio para investigaciones biomedicas, Facultad de Ciencias de la vida
+      (FCV), Campus Gustavo Galindo Km. 30.5 Via Perimetral, P.O. Box 09-01-5863,
+      Guayaquil, Ecuador.
+AD  - School of Dentistry, University of Specialties Espiritu Santo, Samborondon,
+      Ecuador.
+FAU - Sarmiento, Glenda
+AU  - Sarmiento G
+AD  - Facultad de Ciencias Quimicas, Universidad de Guayaquil, Cdla. Universitaria
+      "Salvador Allende", Malecon del Salado entre Av. Delta y Av. Kennedy, 090514,
+      Guayaquil, Ecuador.
+FAU - Pilozo, Glenda
+AU  - Pilozo G
+AD  - Facultad de Ciencias Quimicas, Universidad de Guayaquil, Cdla. Universitaria
+      "Salvador Allende", Malecon del Salado entre Av. Delta y Av. Kennedy, 090514,
+      Guayaquil, Ecuador.
+AD  - ESPOL Polytechnic University, Escuela Superior Politecnica del Litoral, ESPOL,
+      Centro de Investigaciones Biotecnologicas del Ecuador (CIBE), Campus Gustavo
+      Galindo Km. 30.5 Via Perimetral, P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Iniga, Elsy
+AU  - Iniga E
+AD  - Facultad de Ciencias Quimicas, Universidad de Guayaquil, Cdla. Universitaria
+      "Salvador Allende", Malecon del Salado entre Av. Delta y Av. Kennedy, 090514,
+      Guayaquil, Ecuador.
+FAU - Zaruma-Torres, Fausto
+AU  - Zaruma-Torres F
+AD  - Laboratorio de Proteinas y Farmacologia, Universidad de Cuenca, Av. 12 de abril y
+      Av. Loja, 010203, Cuenca, Ecuador.
+FAU - Ortiz-Ulloa, Johana
+AU  - Ortiz-Ulloa J
+AD  - Departamento de Biociencias. Grupo "Alimentacion, Nutricion y Salud", Facultad de
+      Ciencias Quimicas, Universidad de Cuenca, Av. 12 de abril y Av. Loja, 010203,
+      Cuenca, Ecuador.
+FAU - Quijano-Aviles, Maria
+AU  - Quijano-Aviles M
+AD  - ESPOL Polytechnic University, Escuela Superior Politecnica del Litoral, ESPOL,
+      Centro de Investigaciones Biotecnologicas del Ecuador (CIBE), Campus Gustavo
+      Galindo Km. 30.5 Via Perimetral, P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Di Grumo, Davide
+AU  - Di Grumo D
+AD  - School of Dentistry, University of Specialties Espiritu Santo, Samborondon,
+      Ecuador.
+FAU - Orellana-Manzano, Silvia
+AU  - Orellana-Manzano S
+AD  - School of Dentistry, University of Specialties Espiritu Santo, Samborondon,
+      Ecuador.
+FAU - Villacres, Maria Del Carmen
+AU  - Villacres MDC
+AD  - Facultad de Ciencias Quimicas, Universidad de Guayaquil, Cdla. Universitaria
+      "Salvador Allende", Malecon del Salado entre Av. Delta y Av. Kennedy, 090514,
+      Guayaquil, Ecuador.
+FAU - Manzano, Patricia
+AU  - Manzano P
+AD  - ESPOL Polytechnic University, Escuela Superior Politecnica del Litoral, ESPOL,
+      Centro de Investigaciones Biotecnologicas del Ecuador (CIBE), Campus Gustavo
+      Galindo Km. 30.5 Via Perimetral, P.O. Box 09-01-5863, Guayaquil, Ecuador.
+FAU - Vanden Berghe, Wim
+AU  - Vanden Berghe W
+AD  - University of Antwerp, PPES, Epigenetic Signaling Lab, Faculty Biomedical
+      Sciences, Prinsstraat 13, 2000, Wilrijk, Antwerp, Belgium.
+LA  - eng
+PT  - Journal Article
+DEP - 20210401
+PL  - Ireland
+TA  - Toxicol Rep
+JT  - Toxicology reports
+JID - 101630272
+PMC - PMC8027533
+OTO - NOTNLM
+OT  - ANOVA, One-way analysis of variance
+OT  - AOT, Acute oral toxicity
+OT  - Acute oral toxicity
+OT  - Cocoa husk
+OT  - Functional drink
+OT  - GHS, Globally Harmonized Classification System
+OT  - INSPI, National Institute of Public Health Research of Ecuador
+OT  - Ilex guayusa
+OT  - LD50Median, lethal dose
+OT  - MCCH, Maquita Cushunchic Fundation
+OT  - Mice
+OT  - OECD, Organization for Economic Cooperation and Development
+OT  - ROW, Relative organ weight
+OT  - SD, Standard deviation
+OT  - Vernonanthura patens
+OT  - b.w., body weight
+COIS- The authors report no declarations of interest.
+EDAT- 2021/04/16 06:00
+MHDA- 2021/04/16 06:01
+CRDT- 2021/04/15 07:22
+PHST- 2021/01/08 00:00 [received]
+PHST- 2021/03/25 00:00 [revised]
+PHST- 2021/03/27 00:00 [accepted]
+PHST- 2021/04/15 07:22 [entrez]
+PHST- 2021/04/16 06:00 [pubmed]
+PHST- 2021/04/16 06:01 [medline]
+AID - 10.1016/j.toxrep.2021.03.026 [doi]
+AID - S2214-7500(21)00067-6 [pii]
+PST - epublish
+SO  - Toxicol Rep. 2021 Apr 1;8:747-752. doi: 10.1016/j.toxrep.2021.03.026. eCollection
+      2021.
+
+PMID- 33538193
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220310
+LR  - 20220311
+IS  - 1478-6427 (Electronic)
+IS  - 1478-6419 (Linking)
+VI  - 36
+IP  - 6
+DP  - 2022 Mar
+TI  - Effect of solvent-solvent partition on antioxidant activity and GC-MS profile of 
+      Ilex guayusa Loes. leaves extract and fractions.
+PG  - 1570-1574
+LID - 10.1080/14786419.2021.1882455 [doi]
+AB  - The use of guayusa (Ilex guayusa Loes.) leaves as functional food has increase
+      recently. This work discusses the antioxidant activity and volatile compounds of 
+      guayusa leaves extract and fractions. The methanol crude extract was obtained by 
+      maceration, subsequently hexane, chloroform, ethyl acetate, and aqueous fractions
+      were collected by solvent-solvent partition. Total phenolic content (TPC), total 
+      flavonol/flavone content (TFC), 2,2-diphenyl-1-picrylhydrazyl (DPPH) radical
+      scavenging activity, and ferric reducing antioxidant power (FRAP) were measured
+      by ultraviolet-visible (UV-Vis) spectrophotometry. The results revealed that
+      ethyl acetate fraction showed highest inhibition against DPPH radical (93.86 +/- 
+      0.95%) at 500 microg/mL, and reduce the ferric-tripyridyltriazine complex
+      (Fe(3+)-TPTZ) at 1619.81 mg trolox equivalent (TE)/g, followed by aqueous
+      fraction. This bioactivity could be related to phenolic acids, flavones and
+      flavonols content, as well as the caffeine, dodecanoic acid isopropyl ester,
+      caffeic acid, and malic acid identified by gas chromatography-mass spectrometry
+      (GC-MS). These findings support the antioxidant properties of this plant
+      material.
+FAU - Choez-Guaranda, Ivan
+AU  - Choez-Guaranda I
+AUID- ORCID: 0000-0003-2603-9491
+AD  - Centro de Investigaciones Biotecnologicas del Ecuador, ESPOL Polytechnic
+      University, Escuela Superior Politecnica del Litoral, ESPOL, Guayaquil, Ecuador.
+FAU - Viteri-Espinoza, Rafael
+AU  - Viteri-Espinoza R
+AD  - Centro de Investigaciones Biotecnologicas del Ecuador, ESPOL Polytechnic
+      University, Escuela Superior Politecnica del Litoral, ESPOL, Guayaquil, Ecuador.
+FAU - Barragan-Lucas, Ana
+AU  - Barragan-Lucas A
+AD  - Centro de Investigaciones Biotecnologicas del Ecuador, ESPOL Polytechnic
+      University, Escuela Superior Politecnica del Litoral, ESPOL, Guayaquil, Ecuador.
+FAU - Quijano-Aviles, Maria
+AU  - Quijano-Aviles M
+AD  - Centro de Investigaciones Biotecnologicas del Ecuador, ESPOL Polytechnic
+      University, Escuela Superior Politecnica del Litoral, ESPOL, Guayaquil, Ecuador.
+FAU - Manzano, Patricia
+AU  - Manzano P
+AUID- ORCID: 0000-0003-3189-6455
+AD  - Centro de Investigaciones Biotecnologicas del Ecuador, ESPOL Polytechnic
+      University, Escuela Superior Politecnica del Litoral, ESPOL, Guayaquil, Ecuador.
+AD  - Facultad de Ciencias de la Vida, ESPOL Polytechnic University, Escuela Superior
+      Politecnica del Litoral, ESPOL, Guayaquil, Ecuador.
+AD  - Facultad de Ciencias Naturales y Matematicas, ESPOL Polytechnic University,
+      Escuela Superior Politecnica del Litoral, ESPOL, Guayaquil, Ecuador.
+LA  - eng
+PT  - Journal Article
+DEP - 20210204
+PL  - England
+TA  - Nat Prod Res
+JT  - Natural product research
+JID - 101167924
+RN  - 0 (Antioxidants)
+RN  - 0 (Plant Extracts)
+RN  - 0 (Solvents)
+SB  - IM
+MH  - Antioxidants/chemistry
+MH  - Gas Chromatography-Mass Spectrometry
+MH  - *Ilex guayusa/chemistry
+MH  - Plant Extracts/chemistry
+MH  - Plant Leaves/chemistry
+MH  - Solvents
+OTO - NOTNLM
+OT  - Bioactivity
+OT  - DPPH
+OT  - FRAP
+OT  - caffeine
+OT  - volatile
+EDAT- 2021/02/05 06:00
+MHDA- 2022/03/11 06:00
+CRDT- 2021/02/04 08:37
+PHST- 2021/02/05 06:00 [pubmed]
+PHST- 2022/03/11 06:00 [medline]
+PHST- 2021/02/04 08:37 [entrez]
+AID - 10.1080/14786419.2021.1882455 [doi]
+PST - ppublish
+SO  - Nat Prod Res. 2022 Mar;36(6):1570-1574. doi: 10.1080/14786419.2021.1882455. Epub 
+      2021 Feb 4.
+
+PMID- 31909247
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200930
+IS  - 2405-8440 (Print)
+IS  - 2405-8440 (Linking)
+VI  - 6
+IP  - 1
+DP  - 2020 Jan
+TI  - Optimisation of ultrasound-assisted extraction of phenolic antioxidants from Ilex
+      guayusa Loes. leaves using response surface methodology.
+PG  - e03043
+LID - 10.1016/j.heliyon.2019.e03043 [doi]
+AB  - The present study carried out the optimisation of the total polyphenol content
+      (TPC) extraction assisted by ultrasound in Ilex guayusa leaves applying response 
+      surface methodology (RSM). Also, the evaluation of the antioxidant activity of
+      the extract obtained under the optimal extraction conditions was performed. The
+      effect of the variables like, time of sonication, temperature, ethanol/water
+      ratio and solid/liquid relationship and the interactions between them were
+      analysed through the use of a factorial design 2^4. The significant factors were 
+      considered for the optimisation, employing a Box-Behnken Design, and the TPC as
+      response variables. It was found that a quadratic model was adequate, with an
+      adjusted R(2) value of 0.9367. The optimal conditions proposed, by the response
+      surface model were: an extraction temperature of 60 degrees C, sonication time of
+      29.9 min and ethanol/water ratio of 76.8/23.2. The optimised leaves extract of I.
+      guayusa show a TPC of 3.46 (+/-0.17) g gallic acid equivalents/100 g d.w. Radical
+      scavenger activity of the obtained extract at optimum conditions, was performed
+      through the FRAP and ABTS methods, given as result: 0.080 mmol TROLOX
+      equivalents/100 g d.w. and 40.71 mumol TROLOX equivalents/g d.w., respectively.
+      Due to the present findings, I. guayusa extracts can be proposed as a promising
+      component for functional beverages, cosmetic and pharmaceutical formulation.
+CI  - (c) 2019 The Authors.
+FAU - Arteaga-Crespo, Yasiel
+AU  - Arteaga-Crespo Y
+AD  - Universidad Estatal Amazonica, Km 2 (1/2) Via Puyo-Tena, Puyo, Ecuador.
+FAU - Radice, Matteo
+AU  - Radice M
+AD  - Universidad Estatal Amazonica, Km 2 (1/2) Via Puyo-Tena, Puyo, Ecuador.
+FAU - Bravo-Sanchez, Luis Ramon
+AU  - Bravo-Sanchez LR
+AD  - Universidad Estatal Amazonica, Km 2 (1/2) Via Puyo-Tena, Puyo, Ecuador.
+FAU - Garcia-Quintana, Yudel
+AU  - Garcia-Quintana Y
+AD  - Universidad Estatal Amazonica, Km 2 (1/2) Via Puyo-Tena, Puyo, Ecuador.
+FAU - Scalvenzi, Laura
+AU  - Scalvenzi L
+AD  - Universidad Estatal Amazonica, Km 2 (1/2) Via Puyo-Tena, Puyo, Ecuador.
+LA  - eng
+PT  - Journal Article
+DEP - 20191227
+PL  - England
+TA  - Heliyon
+JT  - Heliyon
+JID - 101672560
+PMC - PMC6939111
+OTO - NOTNLM
+OT  - ABTS
+OT  - Chemistry
+OT  - Design expert
+OT  - Engineering
+OT  - FRAP
+OT  - Food science
+OT  - Natural antioxidants
+OT  - Natural extracts
+EDAT- 2020/01/08 06:00
+MHDA- 2020/01/08 06:01
+CRDT- 2020/01/08 06:00
+PHST- 2019/06/15 00:00 [received]
+PHST- 2019/10/11 00:00 [revised]
+PHST- 2019/12/11 00:00 [accepted]
+PHST- 2020/01/08 06:00 [entrez]
+PHST- 2020/01/08 06:00 [pubmed]
+PHST- 2020/01/08 06:01 [medline]
+AID - 10.1016/j.heliyon.2019.e03043 [doi]
+AID - S2405-8440(19)36702-7 [pii]
+AID - e03043 [pii]
+PST - epublish
+SO  - Heliyon. 2019 Dec 27;6(1):e03043. doi: 10.1016/j.heliyon.2019.e03043. eCollection
+      2020 Jan.
+
+PMID- 31366209
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200915
+LR  - 20200915
+IS  - 1549-7852 (Electronic)
+IS  - 1040-8398 (Linking)
+VI  - 60
+IP  - 14
+DP  - 2020
+TI  - A critical review of the composition and history of safe use of guayusa: a
+      stimulant and antioxidant novel food.
+PG  - 2393-2404
+LID - 10.1080/10408398.2019.1643286 [doi]
+AB  - Due to rapid international market development, there is a strong and urgent need 
+      to assess the safety of the novel food, Ilex guayusa. Guayusa has been consumed
+      for centuries in the western Amazon as an herbal tea, and novel food regulation
+      provide a detailed framework for safety assessment of novel foods with such a
+      history of use. This study reviews guayusa's taxonomy, chemical composition,
+      toxicology, ethnobotany, and history of safe use as key elements of a robust
+      novel food safety assessment. Guayusa is a product of traditional agricultural
+      systems with a continuous history of consumption in Ecuador. Its known chemical
+      composition appears to present no greater risk to human health than existing teas
+      such as green tea or yerba mate, although our understanding of guayusa's chemical
+      profile is still nascent, requiring further investigation. Broad consumption of
+      guayusa is not associated with a history of adverse effects or product safety
+      notifications. Biochemical and phytochemical studies have profiled its
+      nutritional content, metabolite composition, and bioactivity, validating
+      guayusa's antioxidant and stimulant properties. In conclusion, guayusa leaves
+      have a well-documented chemical composition and history of safe use, which are
+      key considerations for authorization as a novel food in the EU.
+FAU - Wise, Graham
+AU  - Wise G
+AUID- ORCID: https://orcid.org/0000-0002-2958-1457
+AD  - Office of the Vice President of Innovation, Universidad Regional Amazonica Ikiam,
+      Tena, Ecuador.
+AD  - Center for Global Health Equity, University of Wisconsin-Milwaukee, Milwaukee,
+      Wisconsin, USA.
+FAU - Negrin, Adam
+AU  - Negrin A
+AD  - Department of Biological Sciences, Lehman College, Bronx, New York, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20190801
+PL  - United States
+TA  - Crit Rev Food Sci Nutr
+JT  - Critical reviews in food science and nutrition
+JID - 8914818
+RN  - 0 (Antioxidants)
+RN  - 0 (Plant Extracts)
+SB  - IM
+MH  - Antioxidants/*chemistry/*pharmacology
+MH  - *Food Safety
+MH  - Humans
+MH  - Ilex guayusa/*chemistry
+MH  - Plant Extracts/chemistry/pharmacology
+MH  - Plant Leaves/chemistry
+OTO - NOTNLM
+OT  - Ilex guayusa
+OT  - caffeine
+OT  - chemical composition
+OT  - food safety
+OT  - food science
+OT  - traditional food
+EDAT- 2019/08/02 06:00
+MHDA- 2020/09/17 06:00
+CRDT- 2019/08/02 06:00
+PHST- 2019/08/02 06:00 [pubmed]
+PHST- 2020/09/17 06:00 [medline]
+PHST- 2019/08/02 06:00 [entrez]
+AID - 10.1080/10408398.2019.1643286 [doi]
+PST - ppublish
+SO  - Crit Rev Food Sci Nutr. 2020;60(14):2393-2404. doi:
+      10.1080/10408398.2019.1643286. Epub 2019 Aug 1.
+
+PMID- 31042034
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190715
+LR  - 20190715
+IS  - 1520-5118 (Electronic)
+IS  - 0021-8561 (Linking)
+VI  - 67
+IP  - 19
+DP  - 2019 May 15
+TI  - LC-MS Metabolomics and Chemotaxonomy of Caffeine-Containing Holly ( Ilex) Species
+      and Related Taxa in the Aquifoliaceae.
+PG  - 5687-5699
+LID - 10.1021/acs.jafc.8b07168 [doi]
+AB  - Ilex species have been consumed traditionally as medicinal teas worldwide. Though
+      the presence of caffeine has been reported in several species, little is known
+      about secondary-metabolite diversity within and among these taxa. Leaf samples of
+      Ilex guayusa, Ilex paraguariensis, and Ilex vomitoria were analyzed by liquid
+      chromatography-mass spectrometry and comparative metabolite profiling with Ilex
+      cassine and other Ilex species to identify chemotaxonomic markers, delimit
+      species, and provide an assessment of chemodiversity. Purine alkaloids were
+      detected and quantified in I. guayusa, I. paraguariensis, and I. vomitoria.
+      Reports of caffeine for I. cassine were not corroborated, suggesting that I.
+      vomitoria was the traditional source of the Native North American tea yaupon. The
+      tetramethyluric acid, theacrine, was detected for the first time in the genus
+      Ilex as a low-level chemotaxonomic marker in I. vomitoria samples. Chemotaxonomy 
+      and metabolomics support a close relationship for caffeine-containing Ilex
+      species.
+FAU - Negrin, Adam
+AU  - Negrin A
+AD  - Department of Biological Sciences , Lehman College , Bronx , New York 10468 ,
+      United States.
+AD  - Ph.D. Program in Biology, The Graduate Center , The City University of New York ,
+      New York , New York 10016 , United States.
+FAU - Long, Chunlin
+AU  - Long C
+AD  - College of Life and Environmental Sciences , Minzu University of China , Beijing 
+      100081 , People's Republic of China.
+FAU - Motley, Timothy J
+AU  - Motley TJ
+AD  - Department of Biological Sciences , Old Dominion University , Norfolk , Virginia 
+      23529 , United States.
+FAU - Kennelly, Edward J
+AU  - Kennelly EJ
+AUID- ORCID: http://orcid.org/0000-0002-1682-2696
+AD  - Department of Biological Sciences , Lehman College , Bronx , New York 10468 ,
+      United States.
+AD  - Ph.D. Program in Biology, The Graduate Center , The City University of New York ,
+      New York , New York 10016 , United States.
+AD  - College of Life and Environmental Sciences , Minzu University of China , Beijing 
+      100081 , People's Republic of China.
+LA  - eng
+PT  - Journal Article
+DEP - 20190501
+PL  - United States
+TA  - J Agric Food Chem
+JT  - Journal of agricultural and food chemistry
+JID - 0374755
+RN  - 0 (Alkaloids)
+RN  - 0 (Plant Extracts)
+RN  - 3G6A5W338E (Caffeine)
+SB  - IM
+MH  - Alkaloids/analysis/metabolism
+MH  - Aquifoliaceae/*chemistry/classification/metabolism
+MH  - Caffeine/*analysis/metabolism
+MH  - Chromatography, High Pressure Liquid
+MH  - Ilex/*chemistry/classification/metabolism
+MH  - Metabolomics
+MH  - Plant Extracts/*analysis/metabolism
+MH  - Plant Leaves/chemistry/classification
+MH  - Secondary Metabolism
+MH  - Tandem Mass Spectrometry
+OTO - NOTNLM
+OT  - Ilex
+OT  - Ilex cassine
+OT  - Ilex guayusa
+OT  - Ilex paraguariensis
+OT  - Ilex vomitoria
+OT  - caffeine
+OT  - chemotaxonomy
+OT  - chlorogenic acid
+OT  - dahoon
+OT  - mate
+OT  - metabolomics
+OT  - methylxanthine
+OT  - purine alkaloid
+OT  - triterpenoid saponin
+OT  - yaupon
+EDAT- 2019/05/02 06:00
+MHDA- 2019/07/16 06:00
+CRDT- 2019/05/02 06:00
+PHST- 2019/05/02 06:00 [pubmed]
+PHST- 2019/07/16 06:00 [medline]
+PHST- 2019/05/02 06:00 [entrez]
+AID - 10.1021/acs.jafc.8b07168 [doi]
+PST - ppublish
+SO  - J Agric Food Chem. 2019 May 15;67(19):5687-5699. doi: 10.1021/acs.jafc.8b07168.
+      Epub 2019 May 1.
+
+PMID- 30599971
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200106
+LR  - 20200106
+IS  - 1873-7145 (Electronic)
+IS  - 0963-9969 (Linking)
+VI  - 115
+DP  - 2019 Jan
+TI  - Bioactive triterpenoids from the caffeine-rich plants guayusa and mate.
+PG  - 504-510
+LID - S0963-9969(18)30792-0 [pii]
+LID - 10.1016/j.foodres.2018.10.005 [doi]
+AB  - Unlike all other caffeinated plants, guayusa (Ilex guayusa Loes.) and mate (Ilex 
+      paraguariensis A. St. Hill) contain high amounts of pentacyclic triterpenoid
+      acids and alcohols. A phytochemical investigation on these plants revealed a
+      similar triterpenoid profile and a content of ursolic acid (0.7-1%) and amyrin
+      esters (up to 0.5%), quite unusual for dietary plants. The major constituent of
+      the amyrin complex from both plants is alpha-amyrin palmitate (2a), accompanied
+      by lower amounts of its corresponding palmitoleate (2b) and by the corresponding 
+      constitutional isomers from the beta-series (3a and 3b, respectively). Ursolic
+      acid (1) was identified as the responsible for the activity of mate and guayusa
+      extracts in the activation of TGR5, a nuclear receptor of relevance for the
+      prevention and management of diabetes and metabolic syndrome because of its
+      involvement in the regulation of energy expenditure and insulin sensitivity.
+CI  - Copyright (c) 2018 Elsevier Ltd. All rights reserved.
+FAU - Chianese, G
+AU  - Chianese G
+AD  - University of Naples Federico II, Department of Pharmacy, School of Medicine and 
+      Surgery, Naples, Italy.
+FAU - Golin-Pacheco, S D
+AU  - Golin-Pacheco SD
+AD  - Federal University of Parana, PR, Brazil.
+FAU - Taglialatela-Scafati, O
+AU  - Taglialatela-Scafati O
+AD  - University of Naples Federico II, Department of Pharmacy, School of Medicine and 
+      Surgery, Naples, Italy. Electronic address: scatagli@unina.it.
+FAU - Collado, J A
+AU  - Collado JA
+AD  - Instituto Maimonides de Investigacion Biomedica de Cordoba (IMIBIC), Cordoba,
+      Spain.; Departamento de Biologia Celular, Fisiologia e Inmunologia, Universidad
+      de Cordoba, Cordoba, Spain; Hospital Universitario Reina Sofia, Cordoba, Spain.
+FAU - Munoz, E
+AU  - Munoz E
+AD  - Instituto Maimonides de Investigacion Biomedica de Cordoba (IMIBIC), Cordoba,
+      Spain.; Departamento de Biologia Celular, Fisiologia e Inmunologia, Universidad
+      de Cordoba, Cordoba, Spain; Hospital Universitario Reina Sofia, Cordoba, Spain.
+FAU - Appendino, G
+AU  - Appendino G
+AD  - Department of Pharmaceutical Sciences, University of Eastern Piedmont, Novara,
+      Italy.
+FAU - Pollastro, F
+AU  - Pollastro F
+AD  - Department of Pharmaceutical Sciences, University of Eastern Piedmont, Novara,
+      Italy. Electronic address: federica.pollastro@uniupo.it.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20181004
+PL  - Canada
+TA  - Food Res Int
+JT  - Food research international (Ottawa, Ont.)
+JID - 9210143
+RN  - 0 (GPBAR1 protein, human)
+RN  - 0 (Phytochemicals)
+RN  - 0 (Plant Extracts)
+RN  - 0 (Receptors, G-Protein-Coupled)
+RN  - 0 (Transcription Factors)
+RN  - 0 (Triterpenes)
+RN  - 3G6A5W338E (Caffeine)
+RN  - P3M2575F3F (ursolic acid)
+SB  - IM
+MH  - Caffeine/*analysis
+MH  - Diabetes Mellitus/prevention & control
+MH  - Ilex guayusa/*chemistry
+MH  - Ilex paraguariensis/*chemistry
+MH  - Insulin Resistance
+MH  - Metabolic Syndrome/prevention & control
+MH  - Phytochemicals/analysis/pharmacology
+MH  - Plant Extracts/*analysis/pharmacology
+MH  - Receptors, G-Protein-Coupled/drug effects
+MH  - Transcription Factors/drug effects
+MH  - Triterpenes/*analysis/chemistry/pharmacology
+OTO - NOTNLM
+OT  - *Ilex guayusa
+OT  - *Ilex paraguariensis
+OT  - *Metabolic syndrome
+OT  - *TGR5
+OT  - *Ursolic acid
+EDAT- 2019/01/03 06:00
+MHDA- 2020/01/07 06:00
+CRDT- 2019/01/03 06:00
+PHST- 2018/05/31 00:00 [received]
+PHST- 2018/09/17 00:00 [revised]
+PHST- 2018/10/01 00:00 [accepted]
+PHST- 2019/01/03 06:00 [entrez]
+PHST- 2019/01/03 06:00 [pubmed]
+PHST- 2020/01/07 06:00 [medline]
+AID - S0963-9969(18)30792-0 [pii]
+AID - 10.1016/j.foodres.2018.10.005 [doi]
+PST - ppublish
+SO  - Food Res Int. 2019 Jan;115:504-510. doi: 10.1016/j.foodres.2018.10.005. Epub 2018
+      Oct 4.
+
+PMID- 30400635
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190219
+LR  - 20190320
+IS  - 2072-6643 (Electronic)
+IS  - 2072-6643 (Linking)
+VI  - 10
+IP  - 11
+DP  - 2018 Nov 5
+TI  - Health Benefits of Bioactive Compounds from the Genus Ilex, a Source of
+      Traditional Caffeinated Beverages.
+LID - E1682 [pii]
+LID - 10.3390/nu10111682 [doi]
+AB  - Tea and coffee are caffeinated beverages commonly consumed around the world in
+      daily life. Tea from Camellia sinensis is widely available and is a good source
+      of caffeine and other bioactive compounds (e.g., polyphenols and carotenoids).
+      Other tea-like beverages, such as those from the genus Ilex, the large-leaved
+      Kudingcha (Ilex latifolia Thunb and Ilex kudingcha C.J. Tseng), Yerba Mate (Ilex 
+      paraguariensis A. St.-Hil), Yaupon Holly (Ilex vomitoria), and Guayusa (Ilex
+      guayusa Loes) are also traditional drinks, with lesser overall usage, but have
+      attracted much recent attention and have been subjected to further study. This
+      review summarizes the distribution, composition, and health benefits of
+      caffeinated beverages from the genus Ilex. Plants of this genus mainly contain
+      polyphenols and alkaloids, and show diverse health benefits, which, as well as
+      supporting their further popularization as beverages, may also lead to potential 
+      applications in the pharmaceutical or nutraceutical industries.
+FAU - Gan, Ren-You
+AU  - Gan RY
+AUID- ORCID: 0000-0002-4162-1511
+AD  - Department of Food Science & Technology, School of Agriculture and Biology,
+      Shanghai Jiao Tong University, Shanghai 200240, China. renyougan@sjtu.edu.cn.
+FAU - Zhang, Dan
+AU  - Zhang D
+AD  - Department of Food Science & Technology, School of Agriculture and Biology,
+      Shanghai Jiao Tong University, Shanghai 200240, China. zhang.dan@sjtu.edu.cn.
+FAU - Wang, Min
+AU  - Wang M
+AD  - Department of Food Science & Technology, School of Agriculture and Biology,
+      Shanghai Jiao Tong University, Shanghai 200240, China. wangmin799@outlook.com.
+FAU - Corke, Harold
+AU  - Corke H
+AD  - Department of Food Science & Technology, School of Agriculture and Biology,
+      Shanghai Jiao Tong University, Shanghai 200240, China. hcorke@sjtu.edu.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20181105
+PL  - Switzerland
+TA  - Nutrients
+JT  - Nutrients
+JID - 101521595
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Anti-Inflammatory Agents)
+RN  - 0 (Anti-Obesity Agents)
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (Antioxidants)
+RN  - 0 (Cardiovascular Agents)
+RN  - 0 (Coffee)
+RN  - 0 (Hypoglycemic Agents)
+RN  - 0 (Neuroprotective Agents)
+RN  - 0 (Plant Extracts)
+RN  - 0 (Polyphenols)
+RN  - 0 (Tea)
+RN  - 36-88-4 (Carotenoids)
+RN  - 3G6A5W338E (Caffeine)
+SB  - IM
+MH  - Animals
+MH  - Anti-Bacterial Agents/pharmacology
+MH  - Anti-Inflammatory Agents/pharmacology
+MH  - Anti-Obesity Agents/pharmacology
+MH  - Antineoplastic Agents/pharmacology
+MH  - Antioxidants/pharmacology
+MH  - Beverages/*analysis
+MH  - Caffeine/pharmacology
+MH  - Camellia sinensis/chemistry
+MH  - Cardiovascular Agents/pharmacology
+MH  - Carotenoids/pharmacology
+MH  - Coffee/chemistry
+MH  - Disease Models, Animal
+MH  - Gastrointestinal Microbiome/drug effects
+MH  - Humans
+MH  - Hypoglycemic Agents/pharmacology
+MH  - Ilex/*chemistry
+MH  - Ilex paraguariensis/*chemistry
+MH  - Neuroprotective Agents/pharmacology
+MH  - Plant Extracts/pharmacology
+MH  - Polyphenols/pharmacology
+MH  - Tea/chemistry
+PMC - PMC6265843
+OTO - NOTNLM
+OT  - caffeine
+OT  - guayusa
+OT  - kudingcha
+OT  - polyphenols
+OT  - yaupon holly
+OT  - yerba mate
+EDAT- 2018/11/08 06:00
+MHDA- 2019/03/21 06:00
+CRDT- 2018/11/08 06:00
+PHST- 2018/10/10 00:00 [received]
+PHST- 2018/10/30 00:00 [revised]
+PHST- 2018/11/01 00:00 [accepted]
+PHST- 2018/11/08 06:00 [entrez]
+PHST- 2018/11/08 06:00 [pubmed]
+PHST- 2019/03/21 06:00 [medline]
+AID - nu10111682 [pii]
+AID - 10.3390/nu10111682 [doi]
+PST - epublish
+SO  - Nutrients. 2018 Nov 5;10(11). pii: nu10111682. doi: 10.3390/nu10111682.
+
+PMID- 30356383
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220321
+IS  - 1687-918X (Print)
+VI  - 2018
+DP  - 2018
+TI  - Antimicrobial Activity of Piper marginatum Jacq and Ilex guayusa Loes on
+      Microorganisms Associated with Periodontal Disease.
+PG  - 4147383
+LID - 10.1155/2018/4147383 [doi]
+AB  - BACKGROUND: Chronic periodontitis is a multifactorial infectious disease, where
+      multiple bacteria, such as Porphyromonas gingivalis, Prevotella intermedia, and
+      Fusobacterium nucleatum are implicated. The main purpose of researching natural
+      products is to find substances or compounds with antimicrobial activity. AIM: The
+      objective of this work was to determine antimicrobial activity from extracts and 
+      obtained fractions from Piper marginatum Jacq and Ilex guayusa Loes on P.
+      gingivalis ATCC 33277, F. nucleatum ATCC 25586, and P. intermedia ATCC 25611.
+      METHODS: Total ethanol extracts were obtained from both plants. Fractions were
+      obtained from total ethanol extracts with amberlite as a stationary phase
+      employing hexane, acetone, and ethanol-water as solvents. Qualitative and
+      quantitative phytochemical characterization was performed on total ethanol
+      extracts from both plants. Antimicrobial activity from total ethanol extracts and
+      fractions from both plants were evaluated on P. gingivalis ATCC 33277, F.
+      nucleatum ATCC 25586, and P. intermedia ATCC by the well diffusion method with
+      Wilkins-Chalgren agar. RESULTS: Piper marginatum Jacq total ethanol extract
+      presented antimicrobial activity against all three bacteria, whereas Ilex guayusa
+      Loes was only efficient against P. gingivalis ATCC 33277 and P. intermedia ATCC
+      25611, with inhibition halos from 9.3 to 30 mm. Ilex guayusa Loes obtained
+      fractions presented antimicrobial activity against all three microorganisms
+      evaluated, with inhibition halos ranging from 9.7 to 18.7 mm. In regards to Piper
+      marginatum Jacq fractions, inhibition halos were between 8.3 and 19 mm, against
+      all three microorganisms evaluated; only hexane fraction did not present
+      antimicrobial activity against F. nucleatum ATCC 25586. CONCLUSION: Piper
+      marginatum Jacq and Ilex guayusa Loes total ethanol extracts and fractions
+      presented outstanding antimicrobial activity against P. gingivalis ATCC 33277, P.
+      intermedia ATCC 25611, and F. nucleatum ATCC 25586.
+FAU - Gamboa, Fredy
+AU  - Gamboa F
+AUID- ORCID: 0000-0003-2847-9837
+AD  - Department of Microbiology (School of Sciences) and Dental Research Centre Group 
+      (School of Dentistry), Pontificia Universidad Javeriana, Bogota, Colombia.
+FAU - Munoz, Camila-Cristina
+AU  - Munoz CC
+AD  - Department of Microbiology (School of Sciences) and Dental Research Centre Group 
+      (School of Dentistry), Pontificia Universidad Javeriana, Bogota, Colombia.
+FAU - Numpaque, Gloria
+AU  - Numpaque G
+AD  - Department of Chemistry (School of Sciences), Pontificia Universidad Javeriana,
+      Bogota, Colombia.
+FAU - Sequeda-Castaneda, Luis Gonzalo
+AU  - Sequeda-Castaneda LG
+AUID- ORCID: 0000-0002-1639-1988
+AD  - Department of Chemistry (School of Sciences), Pontificia Universidad Javeriana,
+      Bogota, Colombia.
+AD  - Department of Pharmacy, Faculty of Sciences, Universidad Nacional de Colombia,
+      Bogota, Colombia.
+FAU - Gutierrez, Sandra Janeth
+AU  - Gutierrez SJ
+AD  - Dental Research Centre Group (School of Dentistry), Pontificia Universidad
+      Javeriana, Bogota, Colombia.
+FAU - Tellez, Nohemi
+AU  - Tellez N
+AD  - Department of Chemistry (School of Sciences), Pontificia Universidad Javeriana,
+      Bogota, Colombia.
+LA  - eng
+PT  - Journal Article
+DEP - 20180925
+PL  - Egypt
+TA  - Int J Microbiol
+JT  - International journal of microbiology
+JID - 101516125
+PMC - PMC6176333
+EDAT- 2018/10/26 06:00
+MHDA- 2018/10/26 06:01
+CRDT- 2018/10/26 06:00
+PHST- 2018/06/01 00:00 [received]
+PHST- 2018/08/14 00:00 [revised]
+PHST- 2018/08/28 00:00 [accepted]
+PHST- 2018/10/26 06:00 [entrez]
+PHST- 2018/10/26 06:00 [pubmed]
+PHST- 2018/10/26 06:01 [medline]
+AID - 10.1155/2018/4147383 [doi]
+PST - epublish
+SO  - Int J Microbiol. 2018 Sep 25;2018:4147383. doi: 10.1155/2018/4147383. eCollection
+      2018.
+
+PMID- 30213684
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190325
+LR  - 20190325
+IS  - 1878-4216 (Electronic)
+IS  - 0278-5846 (Linking)
+VI  - 89
+DP  - 2019 Mar 8
+TI  - More than just caffeine: psychopharmacology of methylxanthine interactions with
+      plant-derived phytochemicals.
+PG  - 263-274
+LID - S0278-5846(18)30172-6 [pii]
+LID - 10.1016/j.pnpbp.2018.09.005 [doi]
+AB  - In general, preparations of coffee, teas, and cocoa containing high levels of
+      polyphenols, L-theanine and other bioactive compounds selectively enhance mood
+      and cognition effects of caffeine. This review summarizes the bioactive
+      components of commonly consumed natural caffeine sources (e.g. guayusa, mate and 
+      camellia teas, coffee and cocoa) and analyzes the psychopharmacology of
+      constituent phytochemicals: methylxanthines, polyphenols, and L-theanine. Acute
+      and chronic synergistic effects of these compounds on mood and cognition are
+      compared and discussed. Specific sets of constituent compounds such as
+      polyphenols, theobromine and L-theanine appear to enhance mood and cognition
+      effects of caffeine and alleviate negative psychophysiological effects of
+      caffeine. However, more research is needed to identify optimal combinations and
+      ratios of caffeine and phytochemicals for enhancement of cognitive performance.
+CI  - Copyright (c) 2018 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Schuster, Julius
+AU  - Schuster J
+AD  - Swammerdam Institute for Life Sciences, Amsterdam, the Netherlands. Electronic
+      address: juliusschuster@msn.com.
+FAU - Mitchell, Ellen S
+AU  - Mitchell ES
+AD  - PepsiCo R&D, Nutrition Sciences, Purchase, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20180910
+PL  - England
+TA  - Prog Neuropsychopharmacol Biol Psychiatry
+JT  - Progress in neuro-psychopharmacology & biological psychiatry
+JID - 8211617
+RN  - 0 (Phytochemicals)
+RN  - 0 (Psychotropic Drugs)
+RN  - 0 (Xanthines)
+RN  - 28109-92-4 (methylxanthine)
+RN  - 3G6A5W338E (Caffeine)
+SB  - IM
+MH  - Animals
+MH  - Beverages
+MH  - Caffeine/*pharmacology
+MH  - Drug Interactions
+MH  - Humans
+MH  - Phytochemicals/*pharmacology
+MH  - Plants/chemistry
+MH  - Psychotropic Drugs/*pharmacology
+MH  - Xanthines/*pharmacology
+OTO - NOTNLM
+OT  - *Chlorogenic acid
+OT  - *Cocoa
+OT  - *Coffee
+OT  - *Cognition
+OT  - *Flavanoids
+OT  - *Ilex guayusa
+OT  - *Ilex paraguariensis
+OT  - *L-theanine
+OT  - *Polyphenols
+OT  - *Tea
+OT  - *Theobromine
+EDAT- 2018/09/15 06:00
+MHDA- 2019/03/26 06:00
+CRDT- 2018/09/15 06:00
+PHST- 2018/03/12 00:00 [received]
+PHST- 2018/09/06 00:00 [revised]
+PHST- 2018/09/09 00:00 [accepted]
+PHST- 2018/09/15 06:00 [pubmed]
+PHST- 2019/03/26 06:00 [medline]
+PHST- 2018/09/15 06:00 [entrez]
+AID - S0278-5846(18)30172-6 [pii]
+AID - 10.1016/j.pnpbp.2018.09.005 [doi]
+PST - ppublish
+SO  - Prog Neuropsychopharmacol Biol Psychiatry. 2019 Mar 8;89:263-274. doi:
+      10.1016/j.pnpbp.2018.09.005. Epub 2018 Sep 10.
+
+PMID- 29134218
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180507
+LR  - 20180507
+IS  - 2042-650X (Electronic)
+IS  - 2042-6496 (Linking)
+VI  - 8
+IP  - 12
+DP  - 2017 Dec 13
+TI  - Antioxidant and anti-inflammatory properties of Ilex guayusa tea preparations: a 
+      comparison to Camellia sinensis teas.
+PG  - 4601-4610
+LID - 10.1039/c7fo01067b [doi]
+AB  - Ilex guayusa tea preparations are now commercially available as Runa tea. Little 
+      is known regarding the antioxidant and anti-inflammatory bioactivities of this
+      tea. The I. guayusa teas had a total polyphenolic content between 54.39 and 67.23
+      mg GAE per g dry mass and peroxyl radical scavenging capacities between 1773.41
+      and 2019 mumol TE per g dry mass, nearly half of that for the Camellia sinensis
+      teas. The I. guayusa teas afforded 60-80% protection from oxidative stress in the
+      Caco-2 cellular antioxidant assay, comparable to the C. sinensis teas. The
+      anti-inflammatory activity in lipopolysaccharide-stimulated RAW 264.7 cells of I.
+      guayusa teas was similarly comparable to the C. sinensis teas with nitric oxide
+      production reduced by 10-30%. Major compounds identified by mass spectrometry
+      were the phenolic mono- and dicaffeoylquinic acid derivatives. I. guayusa teas
+      are a good source of dietary phenolic compounds with cellular antioxidant and
+      anti-inflammatory properties.
+FAU - Pardau, Madelein D
+AU  - Pardau MD
+AD  - Department of Anatomy, Faculty of Health Sciences, University of Pretoria, South 
+      Africa. mbester@medic.ac.za.
+FAU - Pereira, Andreia S P
+AU  - Pereira ASP
+FAU - Apostolides, Zeno
+AU  - Apostolides Z
+FAU - Serem, June C
+AU  - Serem JC
+FAU - Bester, Megan J
+AU  - Bester MJ
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - England
+TA  - Food Funct
+JT  - Food & function
+JID - 101549033
+RN  - 0 (Anti-Inflammatory Agents)
+RN  - 0 (Antioxidants)
+RN  - 0 (Phenols)
+RN  - 0 (Plant Extracts)
+SB  - IM
+MH  - Animals
+MH  - Anti-Inflammatory Agents/chemistry/*pharmacology
+MH  - Antioxidants/chemistry/*pharmacology
+MH  - Beverages/analysis
+MH  - Caco-2 Cells
+MH  - Camellia sinensis/*chemistry
+MH  - Humans
+MH  - Ilex guayusa/*chemistry
+MH  - Macrophages/drug effects/immunology
+MH  - Mass Spectrometry
+MH  - Mice
+MH  - Phenols/chemistry/pharmacology
+MH  - Plant Extracts/chemistry/*pharmacology
+MH  - Plant Leaves/chemistry
+MH  - RAW 264.7 Cells
+EDAT- 2017/11/15 06:00
+MHDA- 2018/05/08 06:00
+CRDT- 2017/11/15 06:00
+PHST- 2017/11/15 06:00 [pubmed]
+PHST- 2018/05/08 06:00 [medline]
+PHST- 2017/11/15 06:00 [entrez]
+AID - 10.1039/c7fo01067b [doi]
+PST - ppublish
+SO  - Food Funct. 2017 Dec 13;8(12):4601-4610. doi: 10.1039/c7fo01067b.
+
+PMID- 28906554
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180322
+LR  - 20220321
+IS  - 1097-0010 (Electronic)
+IS  - 0022-5142 (Linking)
+VI  - 98
+IP  - 5
+DP  - 2018 Mar
+TI  - Changes in phytochemical composition, bioactivity and in vitro digestibility of
+      guayusa leaves (Ilex guayusa Loes.) in different ripening stages.
+PG  - 1927-1934
+LID - 10.1002/jsfa.8675 [doi]
+AB  - BACKGROUND: Guayusa (Ilex guayusa Loes.) leaves, native of the Ecuadorian Amazon,
+      are popularly used for preparing teas. This study aimed to assess the influence
+      of leaf age on the phenolic compounds and carotenoids and the bioactivity and
+      digestibility (in vitro) of aqueous and hydroalcoholic leaf extracts. RESULTS: In
+      total, 14 phenolic compounds were identified and quantified. Chlorogenic acid and
+      quercetin-3-O-hexose were the main representatives of the hydroxycinnamic acids
+      and flavonols respectively. Seven carotenoids were quantified, lutein being the
+      main compound. Ripening affected phenolic content significantly, but there was no
+      significant difference in carotenoid content. Antioxidant capacity, measured by
+      the DPPH(*) method, was also significantly affected by leaf age. The measurement 
+      of in vitro digestibility showed a decrease in phenolic content (59%) as well as 
+      antioxidant capacity, measured by the ABTS(*+) method, in comparison with initial
+      conditions of the guayusa infusion. Antibacterial and anti-inflammatory
+      activities were assayed with young leaves owing to their higher phenolic
+      contents. Guayusa did not show any antibacterial activity against Escherichia
+      coli ATCC 25922 or Staphylococcus aureus ATCC 25923. Finally, the hydroalcoholic 
+      and aqueous extracts exhibited high in vitro anti-inflammatory activity (>65%).
+      CONCLUSION: Young guayusa leaves have potential applications as a functional
+      ingredient in food and pharmaceutical industries. (c) 2017 Society of Chemical
+      Industry.
+CI  - (c) 2017 Society of Chemical Industry.
+FAU - Villacis-Chiriboga, Jose
+AU  - Villacis-Chiriboga J
+AUID- ORCID: http://orcid.org/0000-0001-6646-0454
+AD  - Department of Food Science and Biotechnology, Escuela Politecnica National,
+      Quito, Ecuador.
+FAU - Garcia-Ruiz, Almudena
+AU  - Garcia-Ruiz A
+AUID- ORCID: http://orcid.org/0000-0002-9906-7146
+AD  - Department of Food Science and Biotechnology, Escuela Politecnica National,
+      Quito, Ecuador.
+FAU - Baenas, Nieves
+AU  - Baenas N
+AD  - Phytochemistry Laboratory, Department of Food Science and Technology, CEBAS-CSIC,
+      Espinardo, Murcia, Spain.
+FAU - Moreno, Diego A
+AU  - Moreno DA
+AD  - Phytochemistry Laboratory, Department of Food Science and Technology, CEBAS-CSIC,
+      Espinardo, Murcia, Spain.
+FAU - Melendez-Martinez, Antonio J
+AU  - Melendez-Martinez AJ
+AD  - Food Colour and Quality Laboratory, Department of Nutrition and Food Science,
+      Universidad de Sevilla, Sevilla, Spain.
+FAU - Stinco, Carla M
+AU  - Stinco CM
+AD  - Food Colour and Quality Laboratory, Department of Nutrition and Food Science,
+      Universidad de Sevilla, Sevilla, Spain.
+FAU - Jerves-Andrade, Lourdes
+AU  - Jerves-Andrade L
+AD  - Department of Biosciences, Faculty of Chemical Sciences, Universidad de Cuenca,
+      Cuenca, Ecuador.
+FAU - Leon-Tamariz, Fabian
+AU  - Leon-Tamariz F
+AD  - Department of Biosciences, Faculty of Chemical Sciences, Universidad de Cuenca,
+      Cuenca, Ecuador.
+FAU - Ortiz-Ulloa, Johanna
+AU  - Ortiz-Ulloa J
+AD  - Department of Biosciences, Faculty of Chemical Sciences, Universidad de Cuenca,
+      Cuenca, Ecuador.
+FAU - Ruales, Jenny
+AU  - Ruales J
+AD  - Department of Food Science and Biotechnology, Escuela Politecnica National,
+      Quito, Ecuador.
+LA  - eng
+PT  - Journal Article
+DEP - 20171124
+PL  - England
+TA  - J Sci Food Agric
+JT  - Journal of the science of food and agriculture
+JID - 0376334
+RN  - 0 (Antioxidants)
+RN  - 0 (Phenols)
+RN  - 0 (Phytochemicals)
+RN  - 0 (Plant Extracts)
+RN  - 36-88-4 (Carotenoids)
+SB  - IM
+MH  - Antioxidants/chemistry/metabolism
+MH  - Carotenoids/chemistry/metabolism
+MH  - Digestion
+MH  - Humans
+MH  - Ilex guayusa/*chemistry/growth & development/metabolism
+MH  - Phenols/chemistry/metabolism
+MH  - Phytochemicals/*chemistry/metabolism
+MH  - Plant Extracts/chemistry/metabolism
+MH  - Plant Leaves/*chemistry/growth & development/metabolism
+OTO - NOTNLM
+OT  - Ilex guayusa Loes.
+OT  - carotenoids
+OT  - hyaluronidase inhibition
+OT  - in vitro digestibility
+OT  - phenolic compounds
+OT  - ripening
+EDAT- 2017/09/15 06:00
+MHDA- 2018/03/23 06:00
+CRDT- 2017/09/15 06:00
+PHST- 2017/04/20 00:00 [received]
+PHST- 2017/08/31 00:00 [revised]
+PHST- 2017/09/07 00:00 [accepted]
+PHST- 2017/09/15 06:00 [pubmed]
+PHST- 2018/03/23 06:00 [medline]
+PHST- 2017/09/15 06:00 [entrez]
+AID - 10.1002/jsfa.8675 [doi]
+PST - ppublish
+SO  - J Sci Food Agric. 2018 Mar;98(5):1927-1934. doi: 10.1002/jsfa.8675. Epub 2017 Nov
+      24.
+
+PMID- 28188617
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171214
+LR  - 20171214
+IS  - 1097-0010 (Electronic)
+IS  - 0022-5142 (Linking)
+VI  - 97
+IP  - 12
+DP  - 2017 Sep
+TI  - Guayusa (Ilex guayusa L.) new tea: phenolic and carotenoid composition and
+      antioxidant capacity.
+PG  - 3929-3936
+LID - 10.1002/jsfa.8255 [doi]
+AB  - BACKGROUND: Guayusa (Ilex guayusa Loes) is an evergreen tree native of South
+      America that grows particularly in the upper Amazon region of Ecuador. For its
+      health benefits, it has been cultivated and consumed since ancient times by
+      Amazon indigenous tribes. RESULTS: A total of 14 phenolic compounds were
+      identified and quantified. Chlorogenic acid and quercetin-3-O-hexose were the
+      main representatives of the hydroxycinnamic acids and flavonols, respectively.
+      Five carotenoids were identified, showing lutein the highest concentration.
+      Guayusa leaves revealed high antioxidant capacity determined by two analytical
+      methods, DPPH and ORAC. The industrial processing applied to the leaves modified 
+      the composition of bioactive compounds and antioxidant capacity of guayusa. In
+      general, blanched guayusa retained the concentration of phenolic compounds and
+      some carotenoids and similar antioxidant capacity as untreated green leaves. In
+      contrast, fermentation reduced the content of bioactive compounds and showed the 
+      lowest antioxidant capacity. CONCLUSION: Therefore, blanched guayusa has
+      potential for product development as a functional ingredient in the food
+      industry. (c) 2017 Society of Chemical Industry.
+CI  - (c) 2017 Society of Chemical Industry.
+FAU - Garcia-Ruiz, Almudena
+AU  - Garcia-Ruiz A
+AUID- ORCID: http://orcid.org/0000-0002-9906-7146
+AD  - Department of Food Science and Biotechnology, Escuela Politecnica National,
+      Quito, Ecuador.
+FAU - Baenas, Nieves
+AU  - Baenas N
+AD  - Phytochemistry Lab., Department of Food Science and Technology, CEBAS-CSIC,
+      Espinardo, Murcia, Spain.
+FAU - Benitez-Gonzalez, Ana M
+AU  - Benitez-Gonzalez AM
+AD  - Food Colour & Quality Lab., Department of Nutrition & Food Science, Facultad de
+      Farmacia, Universidad de Sevilla, Spain.
+FAU - Stinco, Carla M
+AU  - Stinco CM
+AD  - Food Colour & Quality Lab., Department of Nutrition & Food Science, Facultad de
+      Farmacia, Universidad de Sevilla, Spain.
+FAU - Melendez-Martinez, Antonio J
+AU  - Melendez-Martinez AJ
+AD  - Food Colour & Quality Lab., Department of Nutrition & Food Science, Facultad de
+      Farmacia, Universidad de Sevilla, Spain.
+FAU - Moreno, Diego A
+AU  - Moreno DA
+AD  - Phytochemistry Lab., Department of Food Science and Technology, CEBAS-CSIC,
+      Espinardo, Murcia, Spain.
+FAU - Ruales, Jenny
+AU  - Ruales J
+AD  - Department of Food Science and Biotechnology, Escuela Politecnica National,
+      Quito, Ecuador.
+LA  - eng
+PT  - Journal Article
+DEP - 20170309
+PL  - England
+TA  - J Sci Food Agric
+JT  - Journal of the science of food and agriculture
+JID - 0376334
+RN  - 0 (Antioxidants)
+RN  - 0 (Phenols)
+RN  - 0 (Plant Extracts)
+RN  - 36-88-4 (Carotenoids)
+SB  - IM
+MH  - Antioxidants/*chemistry
+MH  - Carotenoids/*chemistry
+MH  - Fruit/chemistry
+MH  - Ilex guayusa/*chemistry
+MH  - Phenols/*chemistry
+MH  - Plant Extracts/*chemistry
+MH  - Plant Leaves/chemistry
+OTO - NOTNLM
+OT  - Ilex guayusa
+OT  - antioxidant capacity
+OT  - industrial processing
+OT  - phytochemical composition
+EDAT- 2017/02/12 06:00
+MHDA- 2017/12/15 06:00
+CRDT- 2017/02/12 06:00
+PHST- 2016/11/24 00:00 [received]
+PHST- 2017/02/02 00:00 [revised]
+PHST- 2017/02/03 00:00 [accepted]
+PHST- 2017/02/12 06:00 [pubmed]
+PHST- 2017/12/15 06:00 [medline]
+PHST- 2017/02/12 06:00 [entrez]
+AID - 10.1002/jsfa.8255 [doi]
+PST - ppublish
+SO  - J Sci Food Agric. 2017 Sep;97(12):3929-3936. doi: 10.1002/jsfa.8255. Epub 2017
+      Mar 9.
+
+PMID- 26811391
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161213
+LR  - 20161230
+IS  - 1092-874X (Electronic)
+IS  - 1091-5818 (Linking)
+VI  - 35
+IP  - 2
+DP  - 2016 Mar-Apr
+TI  - General and Genetic Toxicology of Guayusa Concentrate (Ilex guayusa).
+PG  - 222-42
+LID - 10.1177/1091581815625594 [doi]
+AB  - Tea from the leaves of guayusa (Ilex guayusa) has a long history of consumption
+      by Ecuadorian natives in regions where the plant is indigenous. The tea contains 
+      the methylxanthines caffeine and theobromine as well as chlorogenic acids,
+      flavonoids, and sugars. Various studies were performed to evaluate the general
+      and genetic toxicology of a standardized liquid concentrate of guayusa (GC).
+      Guayusa concentrate was found to be negative in in vitro genotoxicity tests
+      including the Ames test and a chromosome aberration study in human lymphocytes.
+      The oral median lethal dose (LD50) of GC was >5,000 mg/kg for female rats.
+      Guayusa concentrate was administered to male and female rats in a 90-day
+      subchronic study at 1,200, 2,500, and 5,000 mg/kg/d of GC and a caffeine-positive
+      control at 150 mg/kg/d corresponding to the amount of caffeine in the high-dose
+      GC group. Effects observed in the GC-treated groups were comparable to those in
+      the caffeine control group and included reductions in body weights, food
+      efficiency, triglycerides values, and fat pad weights and increases in blood
+      chemistry values for serum aspartate aminotransferase, serum alanine
+      aminotransferase, and cholesterol and adaptive salivary gland hypertrophy. No
+      signs of incremental toxicity due to any other components of guayusa were
+      observed. The studies indicate no harmful effects of GC in these test systems.
+CI  - (c) The Author(s) 2016.
+FAU - Kapp, Robert W Jr
+AU  - Kapp RW Jr
+AD  - BioTox, Monroe Township, NJ, USA rwkapp@gmail.com.
+FAU - Mendes, Odete
+AU  - Mendes O
+AD  - Product Safety Labs, Dayton, NJ, USA.
+FAU - Roy, Shambhu
+AU  - Roy S
+AD  - BioReliance Corporation, Rockville MD, USA.
+FAU - McQuate, Robert S
+AU  - McQuate RS
+AD  - GRAS Associates, LLC, Bend, OR, USA.
+FAU - Kraska, Richard
+AU  - Kraska R
+AD  - GRAS Associates, LLC, Bonita Springs, FL, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160125
+PL  - United States
+TA  - Int J Toxicol
+JT  - International journal of toxicology
+JID - 9708436
+RN  - 0 (Plant Extracts)
+SB  - IM
+MH  - Animals
+MH  - Dose-Response Relationship, Drug
+MH  - Female
+MH  - Humans
+MH  - Ilex guayusa/*chemistry
+MH  - Male
+MH  - *Mutagenicity Tests
+MH  - Plant Extracts/*toxicity
+MH  - Rats
+OTO - NOTNLM
+OT  - caffeine
+OT  - genotoxicity
+OT  - guayusa (Ilex guayusa)
+OT  - methylxanthines
+OT  - safety toxicology
+EDAT- 2016/01/27 06:00
+MHDA- 2016/12/15 06:00
+CRDT- 2016/01/27 06:00
+PHST- 2016/01/27 06:00 [entrez]
+PHST- 2016/01/27 06:00 [pubmed]
+PHST- 2016/12/15 06:00 [medline]
+AID - 1091581815625594 [pii]
+AID - 10.1177/1091581815625594 [doi]
+PST - ppublish
+SO  - Int J Toxicol. 2016 Mar-Apr;35(2):222-42. doi: 10.1177/1091581815625594. Epub
+      2016 Jan 25.
+
+PMID- 7736849
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19950608
+LR  - 20190904
+IS  - 0300-5208 (Print)
+IS  - 0300-5208 (Linking)
+VI  - 185
+DP  - 1994
+TI  - Amazonian ethnobotany and the search for new drugs.
+PG  - 106-12; discussion 112-5
+AB  - Tropical rain forests offer enormous prospects for the discovery of new drugs for
+      use in Western medicine. The Amazon supports 80,000 species of higher plants and 
+      a diverse Indian population. Focusing attention on those plants used as medicines
+      by indigenous peoples is the most efficient way of identifying the plants that
+      contain bioactive compounds. There is an urgent need for more ethnobotanists and 
+      ethnopharmacologists to be trained to document as much information as possible
+      before it and the plants are lost through destruction of the rain forest and
+      acculturation of the indigenous peoples. Ethnobotanical studies have identified
+      plants documented by early travellers; these include Paullinia yoco and Ilex
+      guayusa which are used as stimulants and have been shown to be rich in caffeine. 
+      Studies of the hallucinogen prepared from Banisterioposis caapi have shown that
+      the native people know which plants to add to the mixture to lengthen and
+      intensify the intoxication produced by the beta-carboline alkaloids in the plant.
+      Three major snuffs are used in the Amazonia; the plants from which they are
+      derived have been identified. One of the snuffs also has antifungal and
+      curare-like activities; chemical analysis on the active principles has not been
+      done. Several plants are considered as prime candidates for scientific study as
+      sources of useful chemicals for medicine or industry. These include some used to 
+      prepare teas or other infusions for treatment of various symptoms of senile
+      dementia.
+FAU - Schultes, R E
+AU  - Schultes RE
+AD  - Botanical Museum, Harvard University, Cambridge, MA 02138.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - Netherlands
+TA  - Ciba Found Symp
+JT  - Ciba Foundation symposium
+JID - 0356636
+SB  - IM
+MH  - *Medicine, Traditional
+MH  - *Plants, Medicinal
+MH  - South America
+MH  - Tropical Climate
+RF  - 16
+EDAT- 1994/01/01 00:00
+MHDA- 1994/01/01 00:01
+CRDT- 1994/01/01 00:00
+PHST- 1994/01/01 00:00 [pubmed]
+PHST- 1994/01/01 00:01 [medline]
+PHST- 1994/01/01 00:00 [entrez]
+AID - 10.1002/9780470514634.ch8 [doi]
+PST - ppublish
+SO  - Ciba Found Symp. 1994;185:106-12; discussion 112-5. doi:
+      10.1002/9780470514634.ch8.
+
+PMID- 1682531
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19911213
+LR  - 20190827
+IS  - 0378-8741 (Print)
+IS  - 0378-8741 (Linking)
+VI  - 33
+IP  - 1-2
+DP  - 1991 May-Jun
+TI  - Ritualistic use of the holly Ilex guayusa by Amazonian Jivaro Indians.
+PG  - 25-30
+AB  - In Amazonian Peru and Ecuador leaf decoctions of the rainforest holly Ilex
+      guayusa with high caffeine concentrations are used as a morning stimulant. After 
+      daily ingestion, ritualistic vomiting by male Achuar Indians, better known as
+      Jivaros, reduces excessive caffeine intake, so that blood levels of caffeine and 
+      biotransformed dimethylxanthines do not cause undesirable CNS and other effects. 
+      Emesis is learned and apparently not due to emetic compounds.
+FAU - Lewis, W H
+AU  - Lewis WH
+AD  - Department of Biology, Washington University, St. Louis, MO 63130.
+FAU - Kennelly, E J
+AU  - Kennelly EJ
+FAU - Bass, G N
+AU  - Bass GN
+FAU - Wedner, H J
+AU  - Wedner HJ
+FAU - Elvin-Lewis, M P
+AU  - Elvin-Lewis MP
+FAU - Fast, D
+AU  - Fast D
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - Ireland
+TA  - J Ethnopharmacol
+JT  - Journal of ethnopharmacology
+JID - 7903310
+RN  - 0 (Central Nervous System Stimulants)
+RN  - 0 (Emetics)
+RN  - 0 (Plant Extracts)
+RN  - 0 (Xanthines)
+RN  - 3G6A5W338E (Caffeine)
+SB  - IM
+EIN - J Ethnopharmacol 1991 Sep;34(2-3):293
+MH  - Caffeine/analysis/pharmacology
+MH  - Central Nervous System Stimulants/pharmacology
+MH  - Chromatography, Thin Layer
+MH  - *Culture
+MH  - Ecuador
+MH  - Emetics/pharmacology
+MH  - Humans
+MH  - *Indians, South American
+MH  - Male
+MH  - Peru
+MH  - *Plant Extracts/analysis/pharmacology
+MH  - Xanthines/analysis/blood/pharmacology
+EDAT- 1991/05/01 00:00
+MHDA- 1991/05/01 00:01
+CRDT- 1991/05/01 00:00
+PHST- 1991/05/01 00:00 [pubmed]
+PHST- 1991/05/01 00:01 [medline]
+PHST- 1991/05/01 00:00 [entrez]
+AID - 0378-8741(91)90156-8 [pii]
+AID - 10.1016/0378-8741(91)90156-8 [doi]
+PST - ppublish
+SO  - J Ethnopharmacol. 1991 May-Jun;33(1-2):25-30. doi: 10.1016/0378-8741(91)90156-8.
+
+PMID- 2743711
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19890811
+LR  - 20070911
+IS  - 0265-5985 (Print)
+IS  - 0265-5985 (Linking)
+VI  - 10
+IP  - 2
+DP  - 1989 Feb
+TI  - Glycaemic effects of traditional European plant treatments for diabetes. Studies 
+      in normal and streptozotocin diabetic mice.
+PG  - 69-73
+AB  - Twelve plants used for the traditional treatment of diabetes mellitus in northern
+      Europe were studied using normal and streptozotocin diabetic mice to evaluate
+      effects on glucose homeostasis. The plants were administered in the diet (6.25%
+      by weight) and/or as decoctions or infusions in place of drinking water, to
+      coincide with the traditional method of preparation. Treatment for 28 days with
+      preparations of burdock (Arctium lappa), cashew (Anacardium occidentale),
+      dandelion (Taraxacum officinale), elder (Sambucus nigra), fenugreek (Trigonella
+      foenum-graecum), guayusa (Ilex guayusa), hop (Humulus lupulus), nettle (Urtica
+      dioica), cultivated mushroom (Agaricus bisporus), periwinkle (Catharanthus
+      roseus), sage (Salvia officinale), and wild carrot (Daucus carrota) did not
+      affect the parameters of glucose homeostasis examined in normal mice (basal
+      plasma glucose and insulin, glucose tolerance, insulin-induced hypoglycaemia and 
+      glycated haemoglobin). After administration of streptozotocin (200 mg/kg) burdock
+      and nettle aggravated the diabetic condition, while cashew, dandelion, elder,
+      fenugreek, hop, periwinkle, sage and wild carrot did not significantly affect the
+      parameters of glucose homeostasis studied (basal glucose and insulin,
+      insulin-induced hypoglycaemia, glycated haemoglobin and pancreatic insulin
+      concentration). Guayusa and mushroom retarded the development of hyperglycaemia
+      in streptozotocin diabetes and reduced the hyperphagia, polydipsia, body weight
+      loss, and glycated haemoglobin. Mushroom also countered the initial reduction in 
+      plasma insulin and the reduction in pancreatic insulin concentration, and
+      improved the hypoglycaemic effect of exogenous insulin. These studies suggest the
+      presence of potentially useful antidiabetic agents in guayusa and mushroom.
+FAU - Swanston-Flatt, S K
+AU  - Swanston-Flatt SK
+AD  - Department of Biochemistry, University of Surrey, Guildford, UK.
+FAU - Day, C
+AU  - Day C
+FAU - Flatt, P R
+AU  - Flatt PR
+FAU - Gould, B J
+AU  - Gould BJ
+FAU - Bailey, C J
+AU  - Bailey CJ
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Scotland
+TA  - Diabetes Res
+JT  - Diabetes research (Edinburgh, Scotland)
+JID - 8502339
+RN  - 0 (Blood Glucose)
+SB  - IM
+MH  - Animals
+MH  - Basidiomycota
+MH  - Blood Glucose/metabolism
+MH  - Diabetes Mellitus, Experimental/*therapy
+MH  - *Diet
+MH  - Male
+MH  - *Medicine, Traditional
+MH  - Mice
+MH  - *Plants, Medicinal
+MH  - Reference Values
+EDAT- 1989/02/01 00:00
+MHDA- 1989/02/01 00:01
+CRDT- 1989/02/01 00:00
+PHST- 1989/02/01 00:00 [pubmed]
+PHST- 1989/02/01 00:01 [medline]
+PHST- 1989/02/01 00:00 [entrez]
+PST - ppublish
+SO  - Diabetes Res. 1989 Feb;10(2):69-73.
+
+PMID- 3887041
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19850618
+LR  - 20190829
+IS  - 0378-8741 (Print)
+IS  - 0378-8741 (Linking)
+VI  - 13
+IP  - 1
+DP  - 1985 Mar
+TI  - A multidisciplinary overview of intoxicating snuff rituals in the western
+      hemisphere.
+PG  - 3-49
+AB  - Part one of the paper discusses ethnobotanical, chemical and general
+      pharmacological aspects of intoxicating snuff rituals in the western hemisphere. 
+      Four categories of ritual snuff ingredients arise from this multidisciplinary
+      approach: It is well established that the plant contains one or more psychoactive
+      principles and the Indian use of the plant as a ritual snuff ingredient is
+      confirmed or quite probable: Anadenanthera, Erythroxylum, Nicotiana, Virola; It
+      is well established that the plant contains one or more psychoactive principles, 
+      but the Indian use of the plant as a ritual snuff ingredient is not well recorded
+      or even unlikely: Banisteriopsis, Cannabis, Datura, Ilex guayusa; The Indian use 
+      of the plant as a ritual snuff ingredient is confirmed or quite probable, but it 
+      is not well established that the plant contains one or more psychoactive
+      principles: Justicia pectoralis, Pagamea macrophylla, Tanaecium nocturnum; The
+      Indian use of the plant as a ritual snuff ingredient is not well recorded, and it
+      is not well established that the plant contains one or more psychoactive
+      principles: Acorus calamus, Capsicum, Macquira sclerophylla, Piper interitum.
+      Part two of the paper discusses the nasal pharmacokinetics and efficacy of
+      possible ritual snuff constituents. The literature yields convincing clinical
+      evidence that atropine, cocaine, nicotine and scopolamine are effective following
+      nasal application, but experimental confirmation of the efficacy of nasal
+      tryptamine alkaloids is still awaited. In self-experiments, 6.4 mg/kg of caffeine
+      produced substantial plasma levels via the nasal route, but 0.5 mg/kg of harmine 
+      did not produce measurable plasma levels, when taken as a nasal powder. Without
+      additional experiments, it is difficult to give a definite explanation for this
+      negative result.
+FAU - de Smet, P A
+AU  - de Smet PA
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - Ireland
+TA  - J Ethnopharmacol
+JT  - Journal of ethnopharmacology
+JID - 7903310
+RN  - 0 (Psychotropic Drugs)
+RN  - 0A31347TZK (Bufotenin)
+RN  - 3G6A5W338E (Caffeine)
+RN  - 4FHH5G48T7 (Harmine)
+RN  - 6M3C89ZY6R (Nicotine)
+RN  - 7C0697DR9I (Atropine)
+RN  - DL48G20X8X (Scopolamine)
+RN  - I5Y540LHVR (Cocaine)
+RN  - WUB601BHAA (N,N-Dimethyltryptamine)
+SB  - IM
+MH  - Atropine/pharmacology
+MH  - Bufotenin/pharmacology
+MH  - Caffeine/pharmacology
+MH  - Cannabis
+MH  - Capsicum
+MH  - *Ceremonial Behavior
+MH  - Chemical Phenomena
+MH  - Chemistry
+MH  - Cocaine/pharmacology
+MH  - Datura stramonium
+MH  - Harmine/pharmacology
+MH  - Humans
+MH  - *Indians, North American
+MH  - *Indians, South American
+MH  - N,N-Dimethyltryptamine/pharmacology
+MH  - Nicotine/pharmacology
+MH  - *Plants
+MH  - Plants, Medicinal
+MH  - *Plants, Toxic
+MH  - *Psychotropic Drugs/metabolism
+MH  - Scopolamine/pharmacology
+MH  - *Tobacco
+MH  - *Tobacco, Smokeless
+RF  - 258
+EDAT- 1985/03/01 00:00
+MHDA- 1985/03/01 00:01
+CRDT- 1985/03/01 00:00
+PHST- 1985/03/01 00:00 [pubmed]
+PHST- 1985/03/01 00:01 [medline]
+PHST- 1985/03/01 00:00 [entrez]
+AID - 0378-8741(85)90060-1 [pii]
+AID - 10.1016/0378-8741(85)90060-1 [doi]
+PST - ppublish
+SO  - J Ethnopharmacol. 1985 Mar;13(1):3-49. doi: 10.1016/0378-8741(85)90060-1.
