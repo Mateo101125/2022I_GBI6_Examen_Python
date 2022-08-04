@@ -27,4 +27,4 @@ En la informacion se encontraba desde el registro, autores, ciudad, paises, etc.
 - **La segunda data utilizada se descargo desde la base de batos del NCBI. La Accession List se descargo directamente
  desde la pagina web y porterior se descago las secuencias individuales des el python para alinearse y ser graficadas**
  # Un diagrama de procesos del módulo miningscience
- 
+ <img src="C:\Users\Mateo\Downloads\mining_pubs.png" width=400 height=300 />
